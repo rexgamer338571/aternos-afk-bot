@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
+	"ip":"alpakasmp.aternos.me",
 	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"name": "NG5M-BOT",
+	"auto-night-skip":"false"
 }
